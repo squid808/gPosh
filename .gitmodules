@@ -1,0 +1,3 @@
+[submodule "apis-client-generator"]
+	path = apis-client-generator
+	url = https://github.com/squid808/apis-client-generator.git
